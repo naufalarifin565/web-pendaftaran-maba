@@ -1,3 +1,5 @@
+# Link Deploy by Github.io: https://naufalarifin565.github.io/web-pendaftaran-maba/
+
 # Formulir Pendaftaran Mahasiswa Baru
 
 Sebuah proyek aplikasi web sederhana untuk pendaftaran mahasiswa baru yang dibuat menggunakan HTML, CSS, JavaScript, dan PHP. Proyek ini dirancang sebagai sarana belajar dasar-dasar pengembangan web full-stack, mulai dari antarmuka pengguna (frontend) hingga pemrosesan di sisi server (backend) dan penyimpanan data.
